@@ -25,19 +25,18 @@
 </h2><a id="user-content---hi-there--" class="anchor" aria-label="Permalink: 
   Hi there
   " href="#--hi-there--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">I'm <strong><a href="https://www.youtube.com/@Vyntr1x" rel="nofollow"><code>Tätsú_</code></a></strong>, a hacker &amp; Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.</p>
+<p dir="auto">I'm <strong><a href="https://www.youtube.com/@Vyntr1x" rel="nofollow"><code>Tätsú_</code></a></strong>, a hacker &amp; Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With proven experience in <strong>ethical security research and coordinated vulnerability disclosure for a major aerospace and government-related organization</strong>, including receiving an <strong>official letter of recognition</strong>, .</p></p>
 <details>
   <summary>More about me</summary>
 <ul dir="auto">
-<li><strong>Name</strong>: Tätsú_</li>
-<li><strong>From</strong>: Gye (Ec)</li>
-<li><strong>Bug Hunter</strong> | <strong>Security Researcher</strong> | <strong>forensics Analyst</strong></li>
-<li>i have experience in <strong>Cracking</strong>,<strong>Reverse Engineering</strong>,<strong>Malware Analysis</strong>,<strong>Social engineering</strong>,<strong>Detective</strong></li>
-<li>Improving knowledge in <strong>Webapp Vulnerabilities</strong></li>
-<li>Lifelong learner — always exploring <strong>everything</strong></li>
-
+<ul>
+  <li><strong>Name</strong>: Tätsú_</li>
+  <li><strong>Location</strong>: Guayaquil, Ecuador (GYE)</li>
+  <li><strong>Role</strong>: Bug Hunter | Security Researcher | Forensics Analyst</li>
+  <li><strong>Experience</strong>: Ethical security research with hands-on experience in Reverse Engineering, Digital Forensics, and vulnerability discovery under responsible disclosure principles.</li>
+  <li><strong>Focus</strong>: Improving expertise in Web Application Vulnerabilities, offensive security methodologies, and threat analysis.</li>
+  <li><strong>Mindset</strong>: Lifelong learner — always exploring, researching, and evolving in cybersecurity.</li>
 </ul>
-
 <br>
 <hr>
 <div class="markdown-heading" dir="auto"><h2 id="user-content-present_status" class="heading-element" dir="auto"> Present Status </h2><a id="user-content--present-status-" class="anchor" aria-label="Permalink:  Present Status " href="#-present-status-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
