@@ -28,9 +28,9 @@
 <details open>
   <summary><b>More about me</b></summary>
   <ul dir="auto">
-    <li><strong>Name</strong>: Tätsú_ S2</li>
+     <li><strong>Name</strong>: Tätsú_ </li>
     <li><strong>Focus</strong>: Learning and building innovative projects.</li>
-    <li><strong>Goals</strong>: Improving my skills in software development and cybersecurity.</li>
+    <li><strong>Goals</strong>: Improving my skill  cybersecurity.</li>
     <li>Lifelong learner — always exploring <strong>new technologies</strong>.</li>
   </ul>
 </details>
@@ -40,8 +40,8 @@
 
 <h2 align="left"> Present Status </h2>
 <p>👉 Currently working on personal projects.</p>
-<p>👉 Learning more about Web Development and Tools.</p>
-<p>👉 Building & Contributing to Open Source.</p>
+<p>👉 Learning more  Ciberseguridad and Tools.</p>
+<p>👉  Contributing por un lugar mas seguro.</p>
 
 <hr>
 
